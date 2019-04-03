@@ -177,7 +177,7 @@ int choose_badguy(void)
 //There was an easier way to do this, I think.
 int clear_screen(void)
 {
-	int NUMBER_OF_LINES_TO_SKIP = 30;
+	int NUMBER_OF_LINES_TO_SKIP = 60;
 	int i;
 	for(i = 0; i < NUMBER_OF_LINES_TO_SKIP; i++)
 	{
