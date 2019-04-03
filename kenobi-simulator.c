@@ -1,7 +1,7 @@
 /*
  * kenobi-simulator.c
  * 
- * Copyright 2018 Cuculus <cuculus@posteo.net>
+ * Copyright 2018 Stephen Stengel <stephen.stengel@cwu.edu>
  * 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -23,7 +23,15 @@
 
 //Purpose: To screw around with what I learned from intro to C.
 
-//TODO: Add more badguys.
+// NEW IDEA:
+//		Each character is a data struct containing quotes for responding to each
+//		other character. RNG picks two characters. Check which one goes first.
+//		print.
+//		
+//		Format output to fit in 80 characters.
+
+//TODO: Should I make this like a "what does the COW say: MEOW" toy?
+//		Add more badguys.
 //		Add character selection?
 //		grevious and kenobi out of order qq
 //		How to access struct variables with arrow sign? ->
