@@ -23,7 +23,9 @@
 
 //Purpose: To screw around with what I learned from intro to C.
 
-// NEW IDEA:
+// NEW IDEAS:
+//		The data structure is almost ok. Could just add a kinobi quote and the
+//			order in which they are supposed to appear.
 //		Each character is a data struct containing quotes for responding to each
 //		other character. RNG picks two characters. Check which one goes first.
 //		print.
