@@ -1,1 +1,6 @@
-Wow, such program, very compute!
+kenobi-simulator is a program that I made to play around with things that I learned 
+after taking an intro to C programming course. It's not very "sophisticated" but I 
+intend to make it "better" eventually.
+
+Copyright Stephen Stengel <stephen.stengel@cwu.edu>
+License: GNU GPL v3
