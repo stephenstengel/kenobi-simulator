@@ -24,7 +24,7 @@
 //Purpose: To screw around with what I learned from intro to C.
 
 //Neswest idea: Rewrite using ncurses.
-//				Rewrite the chet characters part using what I know now.
+//				Rewrite the get characters part using what I know now.
 
 // NEW IDEAS:
 //		The data structure is almost ok. Could just add a kinobi quote and the
